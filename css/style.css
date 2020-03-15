@@ -361,6 +361,9 @@ span.sim-dot {
 a:hover {
   color: black;
 }
+table {
+text-align: center;
+} 
 @font-face {
   font-family: Marta_Italic;
   src: url(../fonts/Marta_Italic.otf);
